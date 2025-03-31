@@ -234,4 +234,5 @@ fig.show()
 ---
 **Author**: Seongho Kim  
 **Project**: Financial Transaction and Risk Management Dataset Analysis
-**Data** From https://www.kaggle.com/datasets/ziya07/financial-transaction-and-risk-management-dataset/data (Kaggle)
+
+**Data**: From https://www.kaggle.com/datasets/ziya07/financial-transaction-and-risk-management-dataset/data (Kaggle)
